@@ -12,8 +12,7 @@
     * `flutter pub add get`
     * `flutter pub add flutter_screenutil`
 
-3. You can use some help from [Helpful Resources](https://github.com/Ruba-Yahya/Flutter-Authentication-Project/edit/main/README.md#helpful-resources)
-section down here.
+3. You can use some help from Helpful Resources section down here.
 
 **Project screens**
 ---------------------
@@ -31,6 +30,11 @@ section down here.
 * [Flutter doc](https://api.flutter.dev/index.html)
 * [pub. dev](https://pub.dev)
 
+Good Luck👍🏻✨
+
+if you've any suggestion you can reach me here<a href="mailto:ruba.yahya01@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=ruba.yahya01@gmail.com&color=white&style=flat&logo=gmail" />
+</a>
 
 # مشروع مصادقة باستخدام فلاتر
 
@@ -50,5 +54,10 @@ section down here.
      *  `flutter pub add get`
      *  `flutter pub add flutter_screenutil`
 
+٣. يمكنك استخدام بعض المساعدة من قسم المصادر المفيدة في الاعلى.
 
-٣. يمكنك استخدام بعض المساعدة من قسم  [المصادر المفيدة](https://github.com/Ruba-Yahya/Flutter-Authentication-Project/edit/main/README.md#helpful-resources)
+بالتوفيق👍🏻✨
+
+اذا كانت لديك اي اقتراحات او ملاحظات يمكنك التواصل معي هنا <a href="mailto:ruba.yahya01@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=ruba.yahya01@gmail.com&color=white&style=flat&logo=gmail" />
+</a>
